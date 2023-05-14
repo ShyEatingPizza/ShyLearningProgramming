@@ -1,0 +1,14 @@
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\bin\Debug\netcoreapp3.1\ShyLearningProgramming.exe
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\bin\Debug\netcoreapp3.1\ShyLearningProgramming.deps.json
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\bin\Debug\netcoreapp3.1\ShyLearningProgramming.runtimeconfig.json
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\bin\Debug\netcoreapp3.1\ShyLearningProgramming.runtimeconfig.dev.json
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\bin\Debug\netcoreapp3.1\ShyLearningProgramming.dll
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\bin\Debug\netcoreapp3.1\ShyLearningProgramming.pdb
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\obj\Debug\netcoreapp3.1\ShyLearningProgramming.csproj.AssemblyReference.cache
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\obj\Debug\netcoreapp3.1\ShyLearningProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\obj\Debug\netcoreapp3.1\ShyLearningProgramming.AssemblyInfoInputs.cache
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\obj\Debug\netcoreapp3.1\ShyLearningProgramming.AssemblyInfo.cs
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\obj\Debug\netcoreapp3.1\ShyLearningProgramming.csproj.CoreCompileInputs.cache
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\obj\Debug\netcoreapp3.1\ShyLearningProgramming.dll
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\obj\Debug\netcoreapp3.1\ShyLearningProgramming.pdb
+D:\Repos\ShyLearningProgramming\ShyLearningProgramming.git\ShyLearningProgramming.git\obj\Debug\netcoreapp3.1\ShyLearningProgramming.genruntimeconfig.cache
